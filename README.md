@@ -15,8 +15,8 @@ Where you want to go? From - to on google maps
 
 ### Path
 
-go to: chrome://extensions/
-enable developer mode
-load unpacked extension
-go to project folder into APP folder
-DONE!
+#### go to: chrome://extensions/
+#### enable developer mode
+#### load unpacked extension
+#### go to project folder into APP folder
+#### DONE!
